@@ -13,7 +13,7 @@ import time
 import traceback
 
 """
-单用户信息
+用户信息
 """
 USERNAME = '你的学号'
 PASSWORD = '身份证号后六位'
